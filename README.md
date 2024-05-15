@@ -36,36 +36,15 @@ Also note that we do not optimize uplinks to servers in china .So if you test fr
 2024年4月的优惠码，可以尝试使用：
 
 优惠券代码[6OU19PTR6P](https://moneyslow.com/hostdare "hostdare最新优惠码")将提供 60% 的定期折扣，我们已将此折扣扩展到此优惠。
-SSD0
-1 vCPU 核心
-10 GB NVMe SSD 存储
-768 MB RAM+768 MB RAM*
-500 GB + 500 GB* 月带宽
-200 Mbps 公共端口
-1 IPv4/IPv6 地址
-KVM 虚拟化 使用
-优惠券每年 10.40 美元 6OU19PTR6P
+
 立即订购https://bill.hostdare.com/store/los-angeles-ssd-kvm/ssd0
-SSD1
-1 vCPU 核心
-25 GB NVMe SSD 存储
-1 GB RAM+1GB RAM*
-1000 GB +1000 GB* 月带宽
-500 Mbps 公共端口
-1 IPv4/IPv6 地址
-KVM 虚拟化 使用
+
 优惠券每年 16 美元 6OU19PTR6P
 立即订购https://bill.hostdare.com/store/los-angeles-ssd-kvm/ssd1
-SSD2
-2 个 vCPU 核心
-50 GB NVMe SSD 存储
-2 GB RAM+ 2GB RAM*
-2000 GB+2000GB* 月带宽
-500 Mbps 公共端口
-1 IPv4/IPv6 地址
-KVM 虚拟化 使用
+
 优惠券每年 28.40 美元 6OU19PTR6P
 立即订购https://bill.hostdare.com/store/los-angeles-ssd-kvm/ssd2
+
 出于正当理由，我们以每月 1 美元或每年 12 美元的价格提供额外的 IPv4 – IPv4 数量没有限制。
 更多 VPS 计划请访问https://hostdare.com/vps.html
 如何获得双倍 RAM+带宽

@@ -39,37 +39,8 @@ Also note that we do not optimize uplinks to servers in china .So if you test fr
 
 立即订购https://bill.hostdare.com/store/los-angeles-ssd-kvm/ssd0
 
-优惠券每年 16 美元 6OU19PTR6P
+优惠券每年 16 美元 [6OU19PTR6P](https://moneyslow.com/hostdare "hostdare最新优惠码")
 立即订购https://bill.hostdare.com/store/los-angeles-ssd-kvm/ssd1
 
-优惠券每年 28.40 美元 6OU19PTR6P
+优惠券每年 28.40 美元 [6OU19PTR6P](https://moneyslow.com/hostdare "hostdare最新优惠码")
 立即订购https://bill.hostdare.com/store/los-angeles-ssd-kvm/ssd2
-
-出于正当理由，我们以每月 1 美元或每年 12 美元的价格提供额外的 IPv4 – IPv4 数量没有限制。
-更多 VPS 计划请访问https://hostdare.com/vps.html
-如何获得双倍 RAM+带宽
-如果您订购任何年度计划，我们将为您提供双倍 RAM 和带宽！只需在下面评论您的订单号或发票号即可。只有年度或更长期的付款才有资格享受此优惠。
-所有非托管 VPS 服务均包括以下内容：
-24/7 快速、有用的支持
-即时设置
-DDoS 保护（DDoS 检测和自动缓解）-高达 3gbps
-自定义反向 DNS
-VNC 控制台
-企业级服务器硬件技术
-Virtualizor 控制面板用于管理您的 VPS（启动、重启、关机、重新安装）
-优质带宽
-自有硬件和 IP，自 2016 年开始运营！
-99.9% 正常运行时间保证
-还有更多！
-洛杉矶数据中心测试IP及下载文件
-测试文件：https://repos.lax-noc.com/speedtests/100mb.bin
-
-请注意，双倍内存+带宽优惠不适用于以下计划
-使用优惠券代码[CM2023](https://moneyslow.com/hostdare "hostdare最新优惠码")即可获得针对中国优化的 CN2 GIA CSSD/CKVM 计划 32% 的定期折扣（选择年度或更长时间时）
-在此处探索更多 CSSD VPS 计划：https://hostdare.com/cn2giavps.html
-在此处了解更多 CKVM VPS 计划：https://hostdare.com/chinaoptimizedvps.html
-
-请注意，双倍内存+带宽优惠不适用于以下计划
-使用优惠券代码[KVAAA430XY](https://moneyslow.com/hostdare "hostdare最新优惠码")即可获得针对亚洲优化的 QSSD/QKVM 计划 45% 的定期折扣（选择年度或更长时间时）
-查看我们出色的 QSSD VPS 计划：https://hostdare.com/asiaoptimizedssdvps.html
-查看我们出色的 QKVM VPS 计划：https://hostdare.com/asiaoptimizedvps.html

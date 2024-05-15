@@ -10,15 +10,16 @@ CN2 GIA 线路6.8折优惠码：[CHRISTMAS23](https://moneyslow.com/hostdare "ho
 
 CN2 GIA 线路7折优惠码：[BF2023](https://moneyslow.com/hostdare "hostdare最新优惠码") 或 [CM2023](https://moneyslow.com/hostdare "hostdare最新优惠码")
 
-CN2 GT 线路6折优惠码：3RGN6L0M8A
-CN2 GT 线路6折优惠码：3P1P38DXQB
-CN2 GT 线路5.5折优惠码：KVAAA430XY
-日本机房8折优惠码：918RXB9JBO
-便宜NVMe套餐4折优惠码：9EU189YUPY
+CN2 GT 线路6折优惠码：[3RGN6L0M8A](https://moneyslow.com/hostdare "hostdare最新优惠码")
+
+CN2 GT 线路6折优惠码：[3P1P38DXQB](https://moneyslow.com/hostdare "hostdare最新优惠码")
+CN2 GT 线路5.5折优惠码：[KVAAA430XY](https://moneyslow.com/hostdare "hostdare最新优惠码")
+日本机房8折优惠码：[918RXB9JBO](https://moneyslow.com/hostdare "hostdare最新优惠码")
+便宜NVMe套餐4折优惠码：[9EU189YUPY](https://moneyslow.com/hostdare "hostdare最新优惠码")
 
 HostDare优惠码使用方法：选好VPS套餐过程中看到有填promo code 的地方，输入优惠码就可以。
 
-官网的详细配置 https://www.hostdare.com/chinaoptimizedvps.html
+官网的详细配置 [https://www.hostdare.com/chinaoptimizedvps.html](https://moneyslow.com/hostdare "hostdare最新优惠码")
 
 hostdare配置
 对hostdarevps进行测试，以图中的CKVM7 为例，登录到vps进行回程测试：
@@ -33,7 +34,7 @@ Also note that we do not optimize uplinks to servers in china .So if you test fr
 
 2024年4月的优惠码，可以尝试使用：
 
-优惠券代码6OU19PTR6P将提供 60% 的定期折扣，我们已将此折扣扩展到此优惠。
+优惠券代码[6OU19PTR6P](https://moneyslow.com/hostdare "hostdare最新优惠码")将提供 60% 的定期折扣，我们已将此折扣扩展到此优惠。
 SSD0
 1 vCPU 核心
 10 GB NVMe SSD 存储

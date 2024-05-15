@@ -28,7 +28,7 @@ hostdare配置,对hostdarevps进行测试，以CKVM7 为例，登录到vps进行
 
 hostdare主机vps优惠码及线路测试,大部分情况下，去程都是走202.97，只有回程到电信是59.43，才是真正的CN2-GIA，所以这个CKVM7我理解就是个单线的CN2-GIA，官方客服给出的解释如下：
 
-Currently we provide one way gia as ddos make network unstable otherwise . We optimize to home ISP users in china only .
+>Currently we provide one way gia as ddos make network unstable otherwise . We optimize to home ISP users in china only .
 From your vps to your home isp network IP , it is gia uplink
 from your home isp to your vps, it is non gia uplink like gt etc
 Also note that we do not optimize uplinks to servers in china .So if you test from a testing website such as ipip.net which uses servers network , it will show non gia uplinks .

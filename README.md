@@ -4,6 +4,8 @@
 
 CN2 GIA 线路6.8折优惠码：[SS1Z5SA8Y5](https://moneyslow.com/hostdare "hostdare最新优惠码")
 
+<a href="https://moneyslow.com/hostdare" target="_blank">这是一个链接</a>
+
 CN2 GIA 线路6.8折优惠码：NEWYEAR24
 
 CN2 GIA 线路6.8折优惠码：CHRISTMAS23

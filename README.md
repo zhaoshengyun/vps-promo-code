@@ -63,18 +63,13 @@ Virtualizor 控制面板用于管理您的 VPS（启动、重启、关机、重�
 还有更多！
 洛杉矶数据中心测试IP及下载文件
 测试文件：https://repos.lax-noc.com/speedtests/100mb.bin
-………………………………………………………………………………………………………………………….
-我们的其他 VPS 计划和折扣如下
+
 请注意，双倍内存+带宽优惠不适用于以下计划
-使用优惠券代码918RXB9JBO即可获得日本 VPS 计划 20% 的定期折扣
-查看我们出色的 JSSD VPS 计划：https://hostdare.com/japanvps.html
-…………………………………………………..
-请注意，双倍内存+带宽优惠不适用于以下计划
-使用优惠券代码CM2023即可获得针对中国优化的 CN2 GIA CSSD/CKVM 计划 32% 的定期折扣（选择年度或更长时间时）
+使用优惠券代码[CM2023](https://moneyslow.com/hostdare "hostdare最新优惠码")即可获得针对中国优化的 CN2 GIA CSSD/CKVM 计划 32% 的定期折扣（选择年度或更长时间时）
 在此处探索更多 CSSD VPS 计划：https://hostdare.com/cn2giavps.html
 在此处了解更多 CKVM VPS 计划：https://hostdare.com/chinaoptimizedvps.html
-…………………………………………………..
+
 请注意，双倍内存+带宽优惠不适用于以下计划
-使用优惠券代码KVAAA430XY即可获得针对亚洲优化的 QSSD/QKVM 计划 45% 的定期折扣（选择年度或更长时间时）
+使用优惠券代码[KVAAA430XY](https://moneyslow.com/hostdare "hostdare最新优惠码")即可获得针对亚洲优化的 QSSD/QKVM 计划 45% 的定期折扣（选择年度或更长时间时）
 查看我们出色的 QSSD VPS 计划：https://hostdare.com/asiaoptimizedssdvps.html
 查看我们出色的 QKVM VPS 计划：https://hostdare.com/asiaoptimizedvps.html

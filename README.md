@@ -2,7 +2,7 @@
 实时更新HostDare的CN2 GIA、CN2 GT线路和洛杉矶、日本机房的VPS服务器的优惠码
 2024年5月：
 
-CN2 GIA 线路6.8折优惠码：[SS1Z5SA8Y5](https://moneyslow.com/hostdare)
+CN2 GIA 线路6.8折优惠码：[SS1Z5SA8Y5](https://moneyslow.com/hostdare "hostdare最新优惠码")
 
 CN2 GIA 线路6.8折优惠码：NEWYEAR24
 
